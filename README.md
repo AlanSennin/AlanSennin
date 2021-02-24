@@ -1,11 +1,11 @@
 ### Hola a todo el mundo 👋
 
-Mi nombre es Alan!
+Mi nombre es Alan!\n
 
-📝 Actualmente estudiante del Instituto Tecnologico de Tijuana.
-📝 Curzando la carrera de Ingenieria en Sistemas Computacionales.
+📝 Actualmente estudiante del Instituto Tecnologico de Tijuana.\n
+📝 Curzando la carrera de Ingenieria en Sistemas Computacionales.\n
 
-✅ Graduado de la Preparatoria Federal Lazaro Cardenas.
-✅ Tecnico en Informatica.
+✅ Graduado de la Preparatoria Federal Lazaro Cardenas.\n
+✅ Tecnico en Informatica.\n
 
 ⚡️ Apasionado por los videojuegos y el mundo del pc gaming ⚡️
