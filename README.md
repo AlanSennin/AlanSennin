@@ -12,5 +12,5 @@ Mi nombre es Alan!
 
 ![gKjWLsq](https://user-images.githubusercontent.com/54951428/109262623-b89d4580-77b6-11eb-9569-f93e9b175b22.gif)
 
-| Lenguajes: | C# | SQL | SQL |
+| Lenguajes: | C# | SQL | PYTHON |
 |------------|----|-----|-----|
