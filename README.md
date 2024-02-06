@@ -8,7 +8,3 @@ Mi nombre es Alan!
 - ✅ Graduado de la Preparatoria Federal Lázaro Cárdenas.
 - ✅ Técnico en Informática.
 
-![gKjWLsq](https://user-images.githubusercontent.com/54951428/109262623-b89d4580-77b6-11eb-9569-f93e9b175b22.gif)
-
-| Lenguajes: | C# | SQL | PYTHON |
-|------------|----|-----|-----|
